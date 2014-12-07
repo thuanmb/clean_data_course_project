@@ -2,7 +2,7 @@ Code Book
 =========
 
 ## Cleaning data set
-- The first step I merge train and test data into one data frame
+- The first step I merge train and test data into one data frame.
 - Then I extracts only the measurements on the mean and standard deviation columns.
 - Then I group dataset by subject using subject ID.
 - From the dataset of each subject, I group it by activity ID.
