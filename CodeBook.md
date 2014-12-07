@@ -6,7 +6,7 @@ Code Book
 - Then I extracts only the measurements on the mean and standard deviation columns.
 - Then I group dataset by subject using subject ID.
 - From the dataset of each subject, I group it by activity ID.
-- Lastly I appropriately labels the data set with descriptive variable names. These variables includes: 'subjectId', 'activityLabel' and mean, standard deviation feature names
+- Lastly I appropriately labels the data set with descriptive variable names. These variables includes: 'subjectId', 'activityLabel' and mean, standard deviation feature names.
 
 ## Variable description
 The tidy data contains the measurements on the mean and standard deviation for each activity of each subject. These variable includes:
